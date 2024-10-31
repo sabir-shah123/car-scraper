@@ -1,0 +1,6 @@
+2024/10/30-16:12:34.989 3118 Reusing MANIFEST C:\xampp\htdocs\XortLogix\Cars Extaraction System\node_scripts\user_data\Default\Local Storage\leveldb/MANIFEST-000001
+2024/10/30-16:12:35.000 3118 Recovering log #31
+2024/10/30-16:12:35.004 3118 Reusing old log C:\xampp\htdocs\XortLogix\Cars Extaraction System\node_scripts\user_data\Default\Local Storage\leveldb/000031.log 
+2024/10/30-16:13:35.068 4b74 Level-0 table #36: started
+2024/10/30-16:13:35.090 4b74 Level-0 table #36: 20701 bytes OK
+2024/10/30-16:13:35.093 4b74 Delete type=0 #31
